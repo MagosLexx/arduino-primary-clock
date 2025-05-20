@@ -5,7 +5,7 @@
 [![Arduino Nano Compatible](https://img.shields.io/badge/Arduino-Nano-00979D?logo=arduino)](https://store.arduino.cc/products/arduino-nano)
 [![RTC Module](https://img.shields.io/badge/RTC-DS3231-red)](https://www.analog.com/en/products/ds3231.html)
 
-<img src="./images/clock_photo.jpg" width="400" alt="Project Preview">
+<img src="./images/clock_photo.png" width="400" alt="Project Preview">
 
 Проект точного управления электромеханическими часами через Arduino с автоматической сменой полярности импульсов.
 
