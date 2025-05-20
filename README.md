@@ -6,6 +6,7 @@
 [![RTC Module](https://img.shields.io/badge/RTC-DS3231-red)](https://www.analog.com/en/products/ds3231.html)
 
 [<img src="./images/clock_photo.png" width="400">](./images/clock_photo.png)
+<img src="./images/project_photo.jpg" width="400" alt="Project Preview">
 
 Проект точного управления электромеханическими часами через Arduino с автоматической сменой полярности импульсов.
 
