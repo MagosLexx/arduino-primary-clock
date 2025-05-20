@@ -1,7 +1,5 @@
-# arduino-primary-clock
-⏰ Arduino Clock Driver | DS3231 + L298N | 🔄 Polarity switching | 💡 D4 LED | 📜 MIT License
-
 # Arduino Clock Driver with DS3231 RTC
+⏰ Arduino Clock Driver | DS3231 + L298N | 🔄 Polarity switching | 💡 D4 LED | 📜 MIT License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arduino Nano Compatible](https://img.shields.io/badge/Arduino-Nano-00979D?logo=arduino)](https://store.arduino.cc/products/arduino-nano)
