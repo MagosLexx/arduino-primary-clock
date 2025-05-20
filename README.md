@@ -46,7 +46,7 @@
 
 ## ✅ Документация
 - Прототипированная плата с компонентами (скриншот из Fritzing).
-- 
+[<img src="./images/fritz_project.png" width="400">](./images/fritz_project.png)
 
 
 Быстрый старт
