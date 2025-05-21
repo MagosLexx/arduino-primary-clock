@@ -1,7 +1,7 @@
-Arduino Clock Driver with DS3231 RTC
-Первичные часы на Ардуино с DS3231 RTC
-⏰ Arduino Clock Driver | DS3231 + L298N | 🔄 Polarity switching | 💡 D4 LED | 📜 MIT License
-⏰ Первичные часы на Ардуино | DS3231 + L298N | 🔄 Смена полярности | 💡 D4 Светодиод | 📜 Лицензия MIT
+- Arduino Clock Driver with DS3231 RTC
+- Первичные часы на Ардуино с DS3231 RTC
+- ⏰ Arduino Clock Driver | DS3231 + L298N | 🔄 Polarity switching | 💡 D4 LED | 📜 MIT License
+- ⏰ Первичные часы на Ардуино | DS3231 + L298N | 🔄 Смена полярности | 💡 D4 Светодиод | 📜 Лицензия MIT
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Arduino Nano Compatible](https://img.shields.io/badge/Arduino-Nano-00979D?logo=arduino)](https://store.arduino.cc/products/arduino-nano)
