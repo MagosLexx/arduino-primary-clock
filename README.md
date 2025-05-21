@@ -61,5 +61,6 @@
 - [Техническая спецификация L298 (.pdf)](./documents/l298.pdf)
 
 ## ⚠ Ввод в работу
+[<img src="./images/complete_device.jpg" width="400">](./images/complete_device.jpg)
 
 ## 🎯 Заключение
