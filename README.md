@@ -58,7 +58,7 @@
 - [Проект на одном листе (.vsdx)](./documents/one_page.vsdx)
 - [Паспорт часов (.pdf)](./documents/passport_strela.pdf)
 - [Техническая спецификация DS3231 (.pdf)](./documents/ds3231.pdf)
-- [Техническая спецификация L298 (.pdf)](./documents/l298.pdf)
+- [Техническая спецификация L298N (.pdf)](./documents/l298.pdf)
 
 ## ⚠ Ввод в работу
 [<img src="./images/complete_device.jpg" width="400">](./images/complete_device.jpg)
