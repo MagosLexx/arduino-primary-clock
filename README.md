@@ -47,6 +47,13 @@
 ## ✅ Документация
 [<img src="./images/fritz_project.png" width="400">](./images/fritz_project.png)
 - Прототипированная плата с компонентами (скриншот из Fritzing).
+- [Проект Fritzing (.fzz)](./documents/fritz_project.fzz)
 - [Скетч (.ino)](./sketch/sketch.ino)
+- [Скетч (.txt)](./sketch/sketch.txt)
+- [Проект на одном листе (.pdf)](./documents/one_page.pdf)
+- [Проект на одном листе (.vsdx)](./documents/one_page.vsdx)
+- [Паспорт часов (.pdf)](./documents/passport_strela.pdf)
+- [Техническая спецификация DS3231 (.pdf)](./documents/ds3231.pdf)
+- [Техническая спецификация L298 (.pdf)](./documents/l298.pdf)
 
 Быстрый старт
